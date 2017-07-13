@@ -1,0 +1,10 @@
+{
+    "MainSecretJWT": "MainIsCool",
+    "MongoConnectionString": "mongodb://127.0.0.1:27017/Main",
+    "MailUser": "info@akeog.com",
+    "MailPassword": "7pzS/%JEkJ#B4?\\t",
+    "MailDomain": "smtp.office365.com",
+    "MailPort": "587",
+    "MailEncryption": "STARTTLS",
+    "stripe_sk": "sk_test_xxx"
+}
